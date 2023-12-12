@@ -95,7 +95,7 @@ I'm 25 years old, I live in Feira de Santana/BA and I love technology and animal
 <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanessaSAraujo&theme=transparent&bg_color=000&border_color=F04178&show_icons=true&icon_color=F04178&title_color=F593BD&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VanessaSAraujo&layout=compact&bg_color=000&border_color=F04178&title_color=F04178&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VanessaSAraujo&layout=compact&bg_color=000&border_color=F04178&title_color=F593BD&text_color=FFF)
 
 <!---
 VanessaSAraujo/VanessaSAraujo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
