@@ -13,10 +13,10 @@
 ## Hello!
 <br>
 <div color:F04178>
-I'm 25 years old, I live in Feira de Santana/BA and I love technology and animals! I love challenges, the more stressful the better.
+I'm 26 years old, I live in Feira de Santana/BA and I love technology and animals! I love challenges, the more stressful the better.
 
 - 🔭  Currently I just study, I'm on a technical course in Systems Development.
-- 🌱  I am currently learning C Language in the technical course and Cyber Security at Cisco. In addition to some courses at Alura on Front-end.
+- 🌱  I am currently learning JavaScript Language in the technical course and Cyber Security at Cisco. In addition to some courses at Alura on Front-end.
 - 👯  I'm looking for a job and/or internship, possibly unpaid so I can develop skills.
 - ⚡  Curiosity: I have a degree in Pharmacy and during the course I realized that anything that was linked to technology I was interested in.
 </div>
