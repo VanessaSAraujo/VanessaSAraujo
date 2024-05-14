@@ -30,12 +30,15 @@ I'm 26 years old, I live in Feira de Santana/BA and I love technology and animal
 ![JavaScript](https://img.shields.io/badge/javascript-000.svg?style=for-the-badge&logo=javascript&logoColor=F04178)
 ![C](https://img.shields.io/badge/c-000.svg?style=for-the-badge&logo=c&logoColor=F04178)
 ![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=F04178)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=F04178)
 
 <br>
 
 #### IDEs/Editors
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-000.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=F04178)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=F04178)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=F04178)
+![Android Studio](https://img.shields.io/badge/android%20studio-000?style=for-the-badge&logo=android%20studio&logoColor=F04178)
 
 <br>
 
@@ -58,6 +61,7 @@ I'm 26 years old, I live in Feira de Santana/BA and I love technology and animal
 <br>
 
 #### Other
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=F04178)
 ![Power Bi](https://img.shields.io/badge/power_bi-000?style=for-the-badge&logo=powerbi&logoColor=F04178)
 <br>
 
@@ -65,7 +69,6 @@ I'm 26 years old, I live in Feira de Santana/BA and I love technology and animal
 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-000.svg?style=for-the-badge&logo=javascript&logoColor=F04178)
-![C](https://img.shields.io/badge/c-000.svg?style=for-the-badge&logo=c&logoColor=F04178)
 ![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=F04178)
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=F04178)
 
@@ -80,16 +83,28 @@ I'm 26 years old, I live in Feira de Santana/BA and I love technology and animal
 
 <br>
 
+#### Databases
+![MySQL](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=F04178)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-000?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=F04178)
+
+<br>
+
 #### Design
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-000.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=F04178)
 ![Figma](https://img.shields.io/badge/figma-000.svg?style=for-the-badge&logo=figma&logoColor=F04178)
+![Canva](https://img.shields.io/badge/Canva-000.svg?style=for-the-badge&logo=Canva&logoColor=F04178)
 
 <br>
 
 #### Other
 ![Power Bi](https://img.shields.io/badge/power_bi-000?style=for-the-badge&logo=powerbi&logoColor=F04178)
+
 <br>
 
+#### Testing
+![cypress](https://img.shields.io/badge/-cypress-000?style=for-the-badge&logo=cypress&logoColor=F04178)
+
+<br>
 
 ## GitHub Stats
 <br>
