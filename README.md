@@ -1,4 +1,6 @@
-<img align="right" width="300px" style="margin-top:-20px" src="https://i.ibb.co/DDtt18J/octocat-1694528408061.png">
+
+<img align="right" width="300px" style="position: relative; top: -20px; z-index: 1;" src="https://i.ibb.co/DDtt18J/octocat-1694528408061.png">
+
 
 # Vanessa Araujo
 
