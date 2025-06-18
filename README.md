@@ -1,13 +1,13 @@
 
-<img align="right" width="300px" style="position: relative; top: -20px; z-index: 1;" src="https://i.ibb.co/DDtt18J/octocat-1694528408061.png">
-
-
 # Vanessa Araujo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=F04178)](https://www.linkedin.com/in/vanessa--araujo/)
 [![Instagram](https://img.shields.io/badge/Instagram-000.svg?style=for-the-badge&logo=Instagram&logoColor=F04178)](https://instagram.com/nessa_s1lva)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=F04178)](mailto:vanessa.araujoprogramacao@gmail.com)
 
+<div style="position: absolute; top: 20px; right: 20px; z-index: 10; align= right;">
+  <img width="300px" src="https://i.ibb.co/DDtt18J/octocat-1694528408061.png" alt="Octocat">
+</div>
 
 
 <br><br><br>
@@ -15,7 +15,7 @@
 ## Hello!
 <br>
 <div color:F04178>
-I'm 26 years old, I live in Feira de Santana/BA and I love technology and animals! I love challenges, the more stressful the better.
+I'm 27 years old, I live in Feira de Santana/BA and I love technology and animals! I love challenges, the more stressful the better.
 
 - 🔭  Currently I just study, I'm on a technical course in Systems Development.
 - 🌱  I am currently learning JavaScript Language in the technical course and Cyber Security at Cisco. In addition to some courses at Alura on Front-end.
@@ -43,6 +43,12 @@ I'm 26 years old, I live in Feira de Santana/BA and I love technology and animal
 ![Android Studio](https://img.shields.io/badge/android%20studio-000?style=for-the-badge&logo=android%20studio&logoColor=F04178)
 
 <br>
+
+#### Frameworks, Platforms and Libraries
+![React](https://img.shields.io/badge/react-000000.svg?style=for-the-badge&logo=react&logoColor=F04178)
+![Bootstrap](https://img.shields.io/badge/bootstrap-000000.svg?style=for-the-badge&logo=bootstrap&logoColor=F04178)
+![Maven](https://img.shields.io/badge/apache%20maven-000000.svg?style=for-the-badge&logo=apachemaven&logoColor=F04178)
+![Pytest](https://img.shields.io/badge/pytest-000000.svg?style=for-the-badge&logo=pytest&logoColor=F04178)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/git-000.svg?style=for-the-badge&logo=git&logoColor=F04178)
